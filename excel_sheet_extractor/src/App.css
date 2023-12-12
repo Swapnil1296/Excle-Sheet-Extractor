@@ -1,0 +1,16 @@
+*{
+  background-color: #bbd4db;
+}
+
+
+.input_file{
+  border: 1 px solid rgb(22, 21, 19);
+
+}
+.input_div{
+  margin: 20px;
+ display: flex;
+ flex-direction: column;
+  padding: 10px;
+  
+}
